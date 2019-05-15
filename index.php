@@ -17,7 +17,7 @@
 
       </div>
     </div>
-    <div class="parallax"><img src="background1.png" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="https://i.postimg.cc/MKrkvc53/Artboard-3.png" alt="Unsplashed background img 1"></div>
   </div>
 
 
@@ -66,7 +66,7 @@
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="background2.png" alt="Unsplashed background img 2"></div>
+    <div class="parallax"><img src="https://i.postimg.cc/4N3kfv6h/Artboard-2.png" alt="Unsplashed background img 2"></div>
   </div>
 
   <div class="container">
@@ -92,7 +92,7 @@
         </div>
       </div>
     </div>
-    <div class="parallax"><img src="background3.png" alt="Unsplashed background img 3"></div>
+    <div class="parallax"><img src="https://i.postimg.cc/0jskXzF0/Artboard-1.png" alt="Unsplashed background img 3"></div>
   </div>
 
   <?php include("elements/footer.php") ?>
