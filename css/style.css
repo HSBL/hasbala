@@ -3,6 +3,8 @@
 nav ul a,
 nav .brand-logo {
   color:whitesmoke;
+  font-family: 'Baloo Bhai', cursive;
+  margin-left: 40px;
 }
 
 p {
